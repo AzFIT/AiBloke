@@ -1,5 +1,3 @@
-# The Bloke AI
-
 <p align="center">
   <img src="public/og-image.jpg" alt="The Bloke AI" width="600"/>
 </p>
